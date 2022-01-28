@@ -1,4 +1,4 @@
-![image](https://github.com/lp-Imagine/lp-Imagine/blob/main/images/6.jpg)
+<!-- ![image](https://github.com/lp-Imagine/lp-Imagine/blob/main/images/6.jpg) -->
 
 ## 平平无奇的web前端开发一枚💻。
 

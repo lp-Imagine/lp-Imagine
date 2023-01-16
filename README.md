@@ -4,7 +4,7 @@
 
 
 
-#### 博客地址 📫：[imagineblog.host](http://imagineblog.host)，欢迎来踩！
+#### 博客地址 📫：[http://imagineblog.host](https://lp-imagine.github.io/vuepressblog/))，欢迎来踩！
 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=lp-Imagine&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
 

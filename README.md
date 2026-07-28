@@ -15,7 +15,7 @@
 
 ### 技术栈
 
-`JavaScript` · `TypeScript` · `Vue` · `React` · `CSS` · `Node.js` · `Git`
+[![Skills](https://skillicons.dev/icons?i=js,ts,vue,react,css,nodejs,vite,git)](https://skillicons.dev)
 
 ---
 
@@ -29,10 +29,8 @@
 
 ### Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lp-Imagine&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lp-Imagine&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
+![GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=lp-Imagine&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+![Top languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=lp-Imagine&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

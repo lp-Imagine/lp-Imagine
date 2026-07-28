@@ -1,26 +1,39 @@
-<!-- ![image](https://github.com/lp-Imagine/lp-Imagine/blob/main/images/6.jpg) -->
+# Hi, I'm Penn
 
-## 平平无奇的web前端开发一枚💻。
+平平无奇的 web 前端开发者。  
+写代码、记笔记、追一点 AI 动态。
 
+**积跬步以至千里**
 
+---
 
-#### 博客地址 📫：[lp-imagine.github.io/vuepressblog](https://lp-imagine.github.io/vuepressblog/))，欢迎来踩！
+### 博客
 
-![Github Stars](https://github-readme-stats.vercel.app/api?username=lp-Imagine&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
+**[Penn Notes](https://lp-imagine.github.io/penn-notes/)** — 前端学习笔记 · 工程备忘 · [AI 动态](https://lp-imagine.github.io/penn-notes/news/)
 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lp-Imagine&layout=compact)
+---
 
-<!--
-**lp-Imagine/lp-Imagine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 技术栈
 
-Here are some ideas to get you started:
+`JavaScript` · `TypeScript` · `Vue` · `React` · `CSS` · `Node.js` · `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 近期在做
+
+- 维护个人站 [Penn Notes](https://lp-imagine.github.io/penn-notes/)（VitePress）
+- 每天自动抓取并摘要 AI / 前端资讯
+- 继续把日常踩坑整理成笔记
+
+---
+
+### Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lp-Imagine&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lp-Imagine&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+---
+
+欢迎来博客逛逛：[lp-imagine.github.io/penn-notes](https://lp-imagine.github.io/penn-notes/)
